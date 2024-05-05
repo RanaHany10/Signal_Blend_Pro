@@ -3,6 +3,9 @@
 ## Description
 **Fourier Transform Mixer** is a desktop program designed to illustrate the relative importance of magnitude and phase components in a 2D signal, specifically images. The program allows users to open and view grayscale images, customize Fourier Transform components, mix images with adjustable weights, and more.
 
+## GUI
+![Screenshot (393)](https://github.com/RanaHany10/Signal_Blend_Pro/assets/115092108/6409449d-37ee-4b9e-9ff0-615f1c6642aa)
+
 ## Key Features
 
 ### Image Viewers
@@ -38,6 +41,8 @@
 - Display progress bar during ifft operations.
 - Thread handling for lengthy operations.
 - Cancel previous operation if a new request is made.
+
+https://github.com/RanaHany10/Signal_Blend_Pro/assets/115092108/bedecb42-b93c-4f5d-a8f7-4c09e1aa23c5
 
 ## Getting Started
 To run the application, make sure you have Python and the required libraries (including PyQt and any additional libraries) installed. 
